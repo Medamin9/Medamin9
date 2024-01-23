@@ -42,9 +42,9 @@ That's why I like to make things that make a difference.
 ### 🧰 Frameworks and libraries
 
 <p>
-    <a href="#"><img alt="Angular" src="https://img.shields.io/badge/-Angular-00979D?logo=angular&logoColor=white"></a>
-    <a href="#"><img alt="Springboot" src="https://img.shields.io/badge/-Springboot-00979D?logo=springboot&logoColor=white"></a>
-    <a href="#"><img alt="Django" src="https://img.shields.io/badge/-Django-00979D?logo=django&logoColor=white"></a>
+    <a href="#"><img alt="Angular" src="https://img.shields.io/badge/-Angular-c3002f?logo=angular&logoColor=white"></a>
+    <a href="#"><img alt="Springboot" src="https://img.shields.io/badge/-Springboot-c6d7b9?logo=springboot&logoColor=white"></a>
+    <a href="#"><img alt="Django" src="https://img.shields.io/badge/-Django-092e20?logo=django&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
@@ -63,14 +63,12 @@ That's why I like to make things that make a difference.
 ### 💻 Software and tools
 
 <p>
-    <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="IntelliJ EDIA" src="https://img.shields.io/badge/-IntelliJ%20EDIA-FE7A16?logo=intellij-edia&logoColor=white"></a>
+    <a href="#"><img alt="IntelliJ EDIA" src="https://img.shields.io/badge/-IntelliJ%20EDIA-FE7A16?logo=intellij&logoColor=white"></a>
 
 </p>
 
