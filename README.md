@@ -1,4 +1,4 @@
-# Welcome to [Mohamed amine's](https://aswinbarath.me/) profile! <a href="https://www.aswinbarath.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26px"></a>
+# Welcome to [Mohamed amine's](https://aswinbarath.me/) profile! <a href="https://www.aswinbarath.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px"></a>
 
 <a href="https://www.linkedin.com/in/mohamed-amine-hamdi-482a01225/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="31" width="41" /></a>
 &nbsp;
