@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Mohamed Amine 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2F80ED&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=90&lines=Full+Stack+Software+Engineer;React+%7C+Next.js+%7C+Node.js+%7C+NestJS;Building+scalable+web+platforms;Docker+%7C+PostgreSQL+%7C+CI%2FCD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2F80ED&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=140&lines=Full+Stack+Software+Engineer;React+%7C+Next.js+%7C+Node.js+%7C+NestJS;Building+scalable+web+platforms;Docker+%7C+PostgreSQL+%7C+CI%2FCD" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -93,8 +93,8 @@ I'm a **Full Stack Engineer** based in Ariana, Tunisia, currently building custo
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Medamin9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medamin9&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="top languages" />
+  <img src="https://raw.githubusercontent.com/Medamin9/Medamin9/main/generated/overview.svg" height="165" />
+  <img src="https://raw.githubusercontent.com/Medamin9/Medamin9/main/generated/languages.svg" height="165" />
 </p>
 
 <p align="center">
