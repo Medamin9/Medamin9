@@ -102,9 +102,7 @@ I'm a **Full Stack Engineer** based in Ariana, Tunisia, currently building custo
   <img src="https://streak-stats.demolab.com/?user=Medamin9&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Medamin9&theme=tokyo-night&hide_border=true&cache_seconds=86400" alt="activity graph" />
-</p>
+
 
 ---
 
