@@ -1,0 +1,33 @@
+name: Generate Profile Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # once a day
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: jstrieb/github-stats@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          exclude_repos: ""
+          exclude_langs: ""
+
+      - name: Commit generated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add generated/*.svg
+          git diff --staged --quiet || git commit -m "chore: refresh stats cards [skip ci]"
+          git push
