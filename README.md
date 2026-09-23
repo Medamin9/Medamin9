@@ -1,10 +1,8 @@
 <h1 align="center">Hi there, I'm Mohamed Amine 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2F80ED&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=130&lines=Full+Stack+Software+Engineer;React+%7C+Next.js+%7C+Node.js+%7C+NestJS;Building+scalable+web+platforms;Docker+%7C+PostgreSQL+%7C+CI%2FCD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2F80ED&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=90&lines=Full+Stack+Software+Engineer;React+%7C+Next.js+%7C+Node.js+%7C+NestJS;Building+scalable+web+platforms;Docker+%7C+PostgreSQL+%7C+CI%2FCD" alt="Typing SVG" />
 </p>
-<br/>
-<br/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamedaminehamdi/" target="_blank">
@@ -20,7 +18,7 @@
   </a>
   &nbsp;
   <a href="mailto:hamdi.mohamed.amine@hotmail.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="email" height="28" />
   </a>
   &nbsp;
   <a href="https://mohamed-amine-chi.vercel.app" target="_blank">
@@ -95,16 +93,16 @@ I'm a **Full Stack Engineer** based in Ariana, Tunisia, currently building custo
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Medamin9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medamin9&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Medamin9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medamin9&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Medamin9&theme=tokyonight&hide_border=true" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=Medamin9&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Medamin9&theme=tokyo-night&hide_border=true" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Medamin9&theme=tokyo-night&hide_border=true&cache_seconds=86400" alt="activity graph" />
 </p>
 
 ---
@@ -115,7 +113,7 @@ I'm a **Full Stack Engineer** based in Ariana, Tunisia, currently building custo
   <img src="https://raw.githubusercontent.com/Medamin9/Medamin9/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-> 💡 To generate the snake animation above, add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to this repo — it auto-commits an SVG showing a snake eating your contribution graph. Sample workflow is included at the bottom of this file.
+
 
 ---
 
