@@ -93,8 +93,9 @@ I'm a **Full Stack Engineer** based in Ariana, Tunisia, currently building custo
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Medamin9/Medamin9/main/generated/overview.svg" height="165" />
-  <img src="https://raw.githubusercontent.com/Medamin9/Medamin9/main/generated/languages.svg" height="165" />
+  <img src="https://img.shields.io/github/stars/Medamin9?style=flat&color=2F80ED&label=Stars" alt="stars" />
+  <img src="https://img.shields.io/github/followers/Medamin9?style=flat&color=2F80ED&label=Followers" alt="followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Medamin9&label=Public%20Repos&query=$.public_repos&color=2F80ED" alt="repos" />
 </p>
 
 <p align="center">
