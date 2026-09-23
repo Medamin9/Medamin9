@@ -1,75 +1,124 @@
-# Welcome to [Mohamed amine's](https://aswinbarath.me/) profile! <a href="https://www.aswinbarath.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"></a>
+<h1 align="center">Hi there, I'm Mohamed Amine 👋</h1>
 
-<a href="https://www.linkedin.com/in/mohamed-amine-hamdi-482a01225/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="31" width="41" /></a>
-&nbsp;
-<a href="https://twitter.com/med_amin09" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AswinBarath2" height="30" width="40" /></a>
-&nbsp;
-<a href="https://www.instagram.com/med.aminehamdi/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aswin_barath_" height="30" width="40" /></a>
-&nbsp;
-<a href="https://www.facebook.com/profile.php?id=100002212852970" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100011683902531e" height="30" width="40" /></a>
-&nbsp;
-
-
-
-## Glad to see you here! 😁
-
-I am a full-stack software engineer . I love programming and reading.
-
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world.
-
-That's why I like to make things that make a difference.
-
-
-## 🛠️ My favorite tools
-
-### 👨‍💻 Programming languages
-
-<p>
-    <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-    <a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-    <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-    <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-    <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2F80ED&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=90&lines=Full+Stack+Software+Engineer;React+%7C+Next.js+%7C+Node.js+%7C+NestJS;Building+scalable+web+platforms;Docker+%7C+PostgreSQL+%7C+CI%2FCD" alt="Typing SVG" />
 </p>
 
-### 🧰 Frameworks and libraries
-
-<p>
-    <a href="#"><img alt="Angular" src="https://img.shields.io/badge/-Angular-c3002f?logo=angular&logoColor=white"></a>
-    <a href="#"><img alt="Springboot" src="https://img.shields.io/badge/-Springboot-6AAD3D?logo=springboot&logoColor=white"></a>
-    <a href="#"><img alt="Django" src="https://img.shields.io/badge/-Django-092e20?logo=django&logoColor=white"></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamedaminehamdi/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="32" width="40" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/med_amin09" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/med.aminehamdi/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+  </a>
+  &nbsp;
+  <a href="mailto:hamdi.mohamed.amine@hotmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" />
+  </a>
+  &nbsp;
+  <a href="https://mohamed-amine-chi.vercel.app" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Portfolio-2F80ED?style=flat&logo=vercel&logoColor=white" alt="portfolio" height="28" />
+  </a>
 </p>
 
-### 🗄️ Databases and cloud hosting
-
-<p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-</p>
-
-### 💻 Software and tools
-
-<p>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="IntelliJ EDIA" src="https://img.shields.io/badge/-IntelliJ%20EDIA-6F39B3?logo=intellij-idea&logoColor=white"></a>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Medamin9&label=Profile%20Views&color=2F80ED&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Medamin9?label=Followers&style=flat&color=2F80ED" alt="followers" />
 </p>
 
 ---
+
+### 👨‍💻 About me
+
+I'm a **Full Stack Engineer** based in Ariana, Tunisia, currently building custom web platforms at **WeeTekup**. I enjoy turning ambiguous business requirements into clean, production-ready systems — from data modeling to deployment. I care about performance, security, and shipping things that actually get used.
+
+- 🔭 Currently working on custom full-stack apps with **React / Next.js / NestJS / PostgreSQL / Docker** at **WeeTekup**
+- 🌱 Recently sharpened skills in **automated testing with K6**, **Docker Compose deployments**, and **Nginx**
+- 🎓 Génie Informatique — École Nationale d'Ingénieurs de Carthage (2020–2023)
+- 🗣️ Arabic (native) · French (fluent) · English (upper-intermediate)
+- 📫 Reach me at **hamdi.mohamed.amine@hotmail.com**
+
+---
+
+### 💼 Experience
+
+<table>
+<tr>
+<th>Role</th><th>Company</th><th>Period</th><th>Stack</th>
+</tr>
+<tr>
+<td>Développeur Full Stack</td><td><b>WeeTekup</b></td><td>Nov 2025 – Present</td><td>React, Next.js, Node.js, NestJS, PostgreSQL, Docker, K6, Nginx</td>
+</tr>
+<tr>
+<td>Développeur Full Stack</td><td>WeeGroups</td><td>Jul 2025 – Oct 2025</td><td>Next.js, Node.js, TypeScript, MySQL, Tailwind, JWT</td>
+</tr>
+<tr>
+<td>Ingénieur FullStack</td><td>Teptac Services</td><td>Jun 2025 – Sept 2025</td><td>Next.js, Node.js, TypeScript, Supabase, WordPress, Selenium, Jira</td>
+</tr>
+<tr>
+<td>Développeur Full Stack</td><td>Elwifak Collecte</td><td>May 2024 – Sept 2024</td><td>React, Chakra UI, JavaScript, Node.js, PostgreSQL, Auth0</td>
+</tr>
+<tr>
+<td>Stage de fin d'étude</td><td>Smart Plume</td><td>Mar 2023 – Sept 2023</td><td>React, Django, JavaScript, MongoDB, JWT, Spacy, Cloudinary</td>
+</tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,bash,html,css,js,ts,java,py,nodejs,react,angular,nextjs,nestjs,django,express,spring,tailwind&perline=9" alt="languages and frameworks" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,docker,kubernetes,git,github,vscode,idea,postman,figma&perline=9" alt="tools and databases" />
+</p>
+
+<p align="center">
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white">
+  <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white">
+  <img alt="Scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E.svg?logo=scikit-learn&logoColor=white">
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white">
+  <img alt="K6" src="https://img.shields.io/badge/K6-7D64FF.svg?logo=k6&logoColor=white">
+  <img alt="JWT" src="https://img.shields.io/badge/JWT-000000.svg?logo=jsonwebtokens&logoColor=white">
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Medamin9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medamin9&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Medamin9&theme=tokyonight&hide_border=true" alt="streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Medamin9&theme=tokyo-night&hide_border=true" alt="activity graph" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Medamin9/Medamin9/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+> 💡 To generate the snake animation above, add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to this repo — it auto-commits an SVG showing a snake eating your contribution graph. Sample workflow is included at the bottom of this file.
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.gif" width="100%">
+</p>
+
+<p align="center"><i>Thanks for stopping by — let's build something great! 🚀</i></p>
